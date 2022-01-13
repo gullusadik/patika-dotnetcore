@@ -1,0 +1,2 @@
+# patika-dotnetcore
+dotnetcore patikası
